@@ -1,0 +1,1 @@
+# Navigation package for waypoint handling and geospatial helpers. 
